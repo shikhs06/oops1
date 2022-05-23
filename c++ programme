@@ -1,7 +1,7 @@
 2-d array after 2nd question
 class Arith_num  
 {  
-    // declare data member or variable  
+    // declare data member or variable1  
     int num;  
     public:  
         // create a member function to take input  
